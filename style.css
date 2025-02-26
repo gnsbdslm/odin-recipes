@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 242, 242);
+}
+#main_title{
+    box-sizing: border-box;
+    width: 800px;
+    margin: 16px auto;
+    color: rgb(45, 51, 107);
+    text-align: center;
+}
+#recipe_list li{
+    display: inline;
+    list-style: none;
+    padding: 10px;
+    
+}
+
